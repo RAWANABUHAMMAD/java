@@ -37,7 +37,7 @@ document.write((age > 18 && age < 30)+ "<br>");
 //8//
 let number1 = 2;
 let number2 = 3;
-document.write (Math.pow(2, 3)+ "<br>");
+document.write (number1**number2+ "<br>");
 
 //9//
 let num1 = 10;
